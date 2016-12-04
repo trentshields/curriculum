@@ -1,9 +1,11 @@
-<img src="cf_logo.png">
+<a src="www.coderfactory.com.au"><img src="cf_logo.png"></a>
 
 <p align="center">
 <b><a href="#overview">Overview</a></b>
 |
 <b><a href="#contribution">Contribution</a></b>
+|
+<b><a href="#credits">Credits</a></b>
 </p>
 
 # CoderFactory Curriculum
