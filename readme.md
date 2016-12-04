@@ -2,18 +2,6 @@
 <b><a href="#overview">Overview</a></b>
 |
 <b><a href="#contribution">Contribution</a></b>
-|
-<b><a href="#installation">Installation</a></b>
-|
-<b><a href="#updating">Updating</a></b>
-|
-<b><a href="#setup">Setup</a></b>
-|
-<b><a href="#structure">Structure</a></b>
-|
-<b><a href="#credits">Credits</a></b>
-|
-<b><a href="#license">License</a></b>
 </p>
 
 # CoderFactory Curriculum
