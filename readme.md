@@ -1,4 +1,24 @@
+<p align="center">
+<b><a href="#overview">Overview</a></b>
+|
+<b><a href="#contribution">Contribution</a></b>
+|
+<b><a href="#installation">Installation</a></b>
+|
+<b><a href="#updating">Updating</a></b>
+|
+<b><a href="#setup">Setup</a></b>
+|
+<b><a href="#structure">Structure</a></b>
+|
+<b><a href="#credits">Credits</a></b>
+|
+<b><a href="#license">License</a></b>
+</p>
+
 # CoderFactory Curriculum
+
+## Overview
 
 CoderFactory is a forward thinking bootcamp based in Sydney, Australia. Its goal is to provide students with an education that leads them into a successful career in software development.
 
@@ -16,7 +36,7 @@ This Repository reflects the courses curriculum. You might wonder why we have ch
 
 
 
-## How to Contribute
+## Contribution
 
 ### Key Principles
 
