@@ -54,3 +54,7 @@ Each Unit has the following sections:
 2. The Challenge
 3. Resources
 
+## Credits
+
+Trent Shields - Academic Director | CoderFactory
+Jamie Cerexhe - Technical Operations Manager | DHX
