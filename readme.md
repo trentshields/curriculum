@@ -25,8 +25,11 @@ This Repository reflects the courses curriculum. You might wonder why we have ch
  * The course content and framework is a small portion of what we do. Our focus is on culture and context, our curriculum is simply one of the tools we use.
 
  * We want to provide resources for self-educators and developing countries to use. We, as technologists, have been gifted a lot from the tech community. This is our way of giving back.
-
-<img src="curriculum_rocket.png"/>
+<br />
+ 
+<p align="center">
+<img src="curriculum_rocket.png" width="700"/>
+</p>
 
 ## Contribution
 
