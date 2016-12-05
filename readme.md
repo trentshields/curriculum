@@ -1,4 +1,4 @@
-<a src="www.coderfactory.com.au"><img src="cf_logo.png"/></a>
+<a src="www.coderfactoryacademy.edu.au"><img src="images/cf_logo.png"/></a>
 
 <p align="center">
 <b><a href="#overview">Overview</a></b>
@@ -28,7 +28,7 @@ This Repository reflects the courses curriculum. You might wonder why we have ch
 <br />
 <br />
 <p align="center">
-<img src="curriculum_rocket.png" width="700"/>
+<img src="images/curriculum_rocket.png" width="700"/>
 </p>
 
 ## Contribution
@@ -60,4 +60,3 @@ Each Unit has the following sections:
 ## Credits
 
 * Trent Shields - Academic Director | CoderFactory
-* Jamie Cerexhe - Technical Operations Manager | DHX
