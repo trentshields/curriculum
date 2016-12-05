@@ -56,5 +56,5 @@ Each Unit has the following sections:
 
 ## Credits
 
-Trent Shields - Academic Director | CoderFactory
-Jamie Cerexhe - Technical Operations Manager | DHX
+* Trent Shields - Academic Director | CoderFactory
+* Jamie Cerexhe - Technical Operations Manager | DHX
